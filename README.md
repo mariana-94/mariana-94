@@ -1,5 +1,6 @@
 #Hola, mi nombre es Mariana 👋
-### Developer BackEnd
+###BackEnd Developer 
+##I'm growing
 
 <!--
 **mariana-94/mariana-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
