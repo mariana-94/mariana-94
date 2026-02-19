@@ -21,15 +21,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-👉 Aquí pon tus mejores repos (3 a 6). Ejemplo:
-- **Nombre del proyecto** – breve descripción (stack / objetivo)  
-  Demo / Repo: (link)
-
-> Tip: si todavía no tienes “proyectos fuertes”, sube 2–3 repos bien armados (API .NET + Docker + DB + README).
-
----
-
 ## 📫 Contacto
 - ✉️ Email: **rivera.ambrosio.mariana1994@gmail.com**
 - 📞 Tel: **(+52) 971 262 8419**
